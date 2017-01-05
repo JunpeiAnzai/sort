@@ -1,6 +1,5 @@
-import floor
+from math import floor, log
 import copy
-import log
 
 
 def get_radix_val(x, digit, radix):
